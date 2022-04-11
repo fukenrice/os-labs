@@ -77,6 +77,5 @@ int main()
     printf("Can't detach shared memory\n");
     exit(-1);
   }
-
   return 0;
 }
